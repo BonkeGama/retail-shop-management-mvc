@@ -1,0 +1,15 @@
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\bin\Debug\net6.0\MAMAssessment.exe
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\bin\Debug\net6.0\MAMAssessment.deps.json
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\bin\Debug\net6.0\MAMAssessment.runtimeconfig.json
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\bin\Debug\net6.0\MAMAssessment.dll
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\bin\Debug\net6.0\MAMAssessment.pdb
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\obj\Debug\net6.0\MAMAssessment.csproj.AssemblyReference.cache
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\obj\Debug\net6.0\MAMAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\obj\Debug\net6.0\MAMAssessment.AssemblyInfoInputs.cache
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\obj\Debug\net6.0\MAMAssessment.AssemblyInfo.cs
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\obj\Debug\net6.0\MAMAssessment.csproj.CoreCompileInputs.cache
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\obj\Debug\net6.0\MAMAssessment.dll
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\obj\Debug\net6.0\refint\MAMAssessment.dll
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\obj\Debug\net6.0\MAMAssessment.pdb
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\obj\Debug\net6.0\MAMAssessment.genruntimeconfig.cache
+C:\Users\sivuyise\source\repos\MAMAssessment\MAMAssessment\obj\Debug\net6.0\ref\MAMAssessment.dll
